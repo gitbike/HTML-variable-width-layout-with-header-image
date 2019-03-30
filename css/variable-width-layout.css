@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.wrapper {
+  width: 970px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+.header {
+  height: 155px;
+  background-image: url(../images/header.jpg);
+  background-size: cover;
+}
+
+.header .site-title{
+  text-align: center;
+  line-height: 155px;
+}
+
+.header .site-title a {
+  color: white;
+}
+
+.contents-wrapper {
+  padding-right: 10px;
+  padding-left: 10px;
+}
