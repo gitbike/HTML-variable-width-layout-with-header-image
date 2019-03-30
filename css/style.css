@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-color: gainsboro;
+  background-color: white;
   font-size: 1.6rem;
   font-family: "Hiragino Kaku Gothic ProN", meiryo, sans-serif;
 }
@@ -27,7 +27,7 @@ a:link, a:visited, a:hover, a:active {
 /* nav */
 
 .horizontal-list {
-  text-align: right;
+  text-align: center;
 }
 
 .horizontal-list .horizontal-item {
